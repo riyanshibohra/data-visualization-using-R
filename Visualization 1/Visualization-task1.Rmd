@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo=FALSE, message=FALSE, warning=FALSE)
 library(ggplot2)
 
 # Load the dataset 
-data <- read.csv('/Users/riyanshibohra/Desktop/Coursework- UofA/Data Viz assignments/Data Viz6/SIRTA.csv')
+data <- read.csv('https://raw.githubusercontent.com/riyanshibohra/data-visualization-using-R/refs/heads/main/Visualization%201/SIRTA.csv?token=GHSAT0AAAAAACXQNRBBRTBXBPO3DCT2KREYZXPMXBQ')
 
 # Convert Crash Time into a categorical variable for each time of the day
 data$Time_Interval <- cut(as.numeric(
