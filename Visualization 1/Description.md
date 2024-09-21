@@ -4,7 +4,7 @@ The visualizations in this folder analyze vehicular crashes across different New
 
 - **Dataset:** 
 
-The dataset originates from the Serious Injury Response, Tracking & Analysis Program (SIRTA) maintainedby the New York City Department of Transportation (NYC DOT). It offers a comprehensive overview of severe vehicular crashes within New York City, capturing key details such as the date and time of the crash,precise location coordinates, the borough in which the incident occurred, and metrics on the severity ofthe crash, including non-severe injuries, severe injuries, and fatalities. Additional data points include streetinformation, nearby landmarks, zip codes, and historical data on similar incidents in the past three years atthe same locations. This dataset is instrumental for urban traffic safety analysis and infrastructure decisions.
+The dataset originates from the Serious Injury Response, Tracking & Analysis Program (SIRTA) maintained by the New York City Department of Transportation (NYC DOT). It offers a comprehensive overview of severe vehicular crashes within New York City, capturing key details such as the date and time of the crash, precise location coordinates, the borough in which the incident occurred, and metrics on the severity of the crash, including non-severe injuries, severe injuries, and fatalities. Additional data points include street information, nearby landmarks, zip codes, and historical data on similar incidents in the past three years at the same locations. This dataset is instrumental for urban traffic safety analysis and infrastructure decisions.
 
 Data Source:
 New York City Department of Transportation. Last Updated August 7,2023.Serious Injury Response, Tracking & Analysis Program (SIRTA) Data. NYC Open Data.
